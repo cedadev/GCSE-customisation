@@ -62,7 +62,7 @@ The example takes a query parameter in the url and uses that to make a search.
 The results are then displayed with the chosen bootstrap css. In the header
 there are the CEDA themes which can be uncommented to change the styling.
 
-The URL query parameter needed to make a search is `gsc.q=`
+The URL query parameter needed to make a search is `#gsc.q=`
 
 ## Templates
 
